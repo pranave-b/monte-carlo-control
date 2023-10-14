@@ -18,6 +18,8 @@ Monte Carlo Control is a reinforcement learning method, to figure out the best a
 #### Step 6:
  Return the optimal Q-values, state-value function, and policy.
 ## MONTE CARLO CONTROL FUNCTION
+## Developed by: Pranave.B
+## Register no: 212221240040
 ```python
 import numpy as np
 from collections import defaultdict
